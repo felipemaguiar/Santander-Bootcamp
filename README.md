@@ -1,3 +1,3 @@
-# Repositório do Desafio do Projeto sobre Git/GitHub da DIO
-Repositório criado para o Desafio de projeto. (Bootcamp - Santander)
-Desafio de projeto sobre Git/GitHub
+# Repositórios de Desafios do Santander Bootcamp Fullstack Developer
+Repositório criado para Desafios de projetos. 
+ - Desafio de projeto sobre Git/GitHub
