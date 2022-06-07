@@ -1,0 +1,38 @@
+body {
+    background: rgb(228, 226, 226);
+}
+
+.post_image_topo {
+    border: 1px solid rgb(5, 5, 5);
+    border-radius: 50%;
+
+}
+
+
+#title, .subtitle, .post_title {
+    color: rgb(0, 0, 2);
+}
+
+.post_title {
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15 px;
+}
+
+.post {
+    background: #eff;
+    padding: 15px;
+    border: 3px solid rgb(34, 90, 107);
+    margin-bottom: 15px;
+    border-radius: 15px;
+}
+
+.post_content {
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post_image {
+    margin-bottom: 15px;
+}
